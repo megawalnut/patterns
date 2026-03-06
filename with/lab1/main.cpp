@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
     QWidget mainWindow;
-    mainWindow.setWindowTitle("Mediator Pattern Example");
+    mainWindow.setWindowTitle("With Mediator's Pattern");
 
     // Create box with components
     QVBoxLayout* layout = new QVBoxLayout(&mainWindow);

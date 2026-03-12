@@ -1,2 +1,10 @@
+# build folders
+build*/
 */build*/
+
+# Qt Creator
 *.txt.user
+*.user
+
+# Projects
+*.ou.tsv

@@ -1,0 +1,11 @@
+team	1	Penguins	1	2	3	
+team	2	Rangers	4	5	6	
+player	1	Crosby	1			
+player	2	Malkin	1			
+player	3	Letang	1			
+player	4	Smith	2			
+player	5	Kreider	2			
+player	6	Henrik	2			
+match	1	2025-04-10 19:00	NewYork	3:2	1	2
+match	2	2025-04-12 20:00	Pittsburgh	2:4	2	1
+match						
